@@ -4,4 +4,5 @@
 # require_relative "config/application"
 
 # Rails.application.load_tasks
-Starting my new project from today!
+#Starting my new project from today!
+Today will be very busy day of life!
